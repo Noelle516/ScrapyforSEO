@@ -1,6 +1,8 @@
-# SEO Internship
+# Scrapy for SEO
 
-My first attempt to use GitHub for my code for work. This will include code that is used for website scraping as well as NLTK
+I created this project to easily share my project. There are two python scripts included in this project:
+
+* 
 
 ## Getting Started
 
@@ -51,19 +53,12 @@ Explain what these tests test and why
 Give an example
 ```
 
-## Deployment
-
-Add additional notes about how to deploy this on a live system
-
 ## Built With
 
 * [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
 * [Maven](https://maven.apache.org/) - Dependency Management
 * [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
 
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
 
 ## Authors
 
@@ -72,9 +67,3 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
-## Acknowledgments
-
-* My supervisor, Mauricio Arbona, for supporting me throughout this project
-* NLTK's book for providing examples and tutorials
-* Scrapy tutorial for further help
