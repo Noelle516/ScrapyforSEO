@@ -39,12 +39,7 @@ scrapy crawl user
 * Top level directory: scrapy
 
 ## Authors
-
 * **Noelle Rivera** - *Initial work* - [NoelleRivera516](https://github.com/Noelle516)
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
 ## References
 For more information: [Scrapy Tutorial](https://doc.scrapy.org/en/latest/intro/tutorial.html)
