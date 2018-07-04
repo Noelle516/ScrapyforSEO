@@ -67,7 +67,7 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## Authors
 
-* **Noelle Rivera** - *Initial work* - [NoelleRivera516](https://github.com/PurpleBooth)
+* **Noelle Rivera** - *Initial work* - [NoelleRivera516](https://github.com/Noelle516)
 
 ## License
 
