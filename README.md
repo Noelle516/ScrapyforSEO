@@ -35,7 +35,8 @@ You can run the spider using the scrapy crawl command:
 ```
 scrapy crawl user
 ```
-**Make sure to use the command prompt, activate your virtualenv, and choose the correct directory**
+**Make sure to use the command prompt, activate your virtualenv, and choose the project's top level directory**
+* Top level directory: 
 
 ## Authors
 
