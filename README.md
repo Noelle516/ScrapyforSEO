@@ -16,7 +16,7 @@ These must be installed before starting:
 
 ### Installing Scrapy
 
-A step by step series of examples that tell you how to get a development env running
+A step by step series of examples that tell you how to get a virtualenv running
 
 1. Open the Anaconda Prompt (can be found by looking up Anaconda in Start Menu)
 2. Create a virtualenv
