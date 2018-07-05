@@ -1,45 +1,39 @@
-# Scrapy for SEO
+# Scrapy por SEO
 
-This is a Scrapy project to scrape websites and seperate them by tags. The spider in this project requires a user input in the command prompt. 
+Esto es un proyecto Scrapy para raspar los sitios web y seperarlos por etiquetas. El "spider" en el proyecto necesita una entrada de usario en el símbolo del sistema.
 
-## Getting Started
+## Para Empezar
 
-These instructions will get you a copy of the project up and running on your local machine.
+Los instrucciones puede ayudarte obtener una copia del proyecto para su ordenador
 
-### Prerequisites
+### Los requisitos indispensables
 
-These must be installed before starting:
+Necesita instalar estos antes de empieza:
 
 * [Python](https://www.python.org/downloads/)
 * [Anaconda](https://docs.anaconda.com/anaconda/install/)
 
 
-### Installing Scrapy
+### Instalar Scrapy
 
-A step by step series of examples that tell you how to get a virtualenv running
-
-1. Open the Anaconda Prompt (can be found by looking up Anaconda in Start Menu)
-2. Create a virtualenv
+1. Abre el "Anaconda Prompt" (puede buscarlo por buscando "Anaconda" en el menú de Incio de Windows)
+2. Crea un virtual env
 ```
 conda create -n yourenvname python=x.x anaconda
 ```
-3. Install Scrapy (conda-forge is the channel)
+3. Instalar Scrapy (conda-forge es el canal)
 ```
 conda install -n yourenvname -c conda-forge scrapy
 ```
 
+## Ejecución del "Spider"
 
-## Running the Spider
-
-You can run the spider using the scrapy crawl command:
+Puede ejecutar el "spider" usando el comando "scrapy crawl":
 ```
 scrapy crawl user
 ```
-**Make sure to use the command prompt, activate your virtualenv, and choose the project's top level directory**
-* Top level directory: scrapy
+**Asegurarte usar el símbolo del sistema, activar tu virtualenv, y elegir el directorio de nivel superior del proyecto**
+* Por esto proyecto el directorio de nivel superior: scrapy
 
-## Authors
-* **Noelle Rivera** - *Initial work* - [NoelleRivera516](https://github.com/Noelle516)
-
-## References
-For more information: [Scrapy Tutorial](https://doc.scrapy.org/en/latest/intro/tutorial.html)
+## Referenciass
+Por mas informacion: [Scrapy Tutorial](https://doc.scrapy.org/en/latest/intro/tutorial.html)
