@@ -1,6 +1,6 @@
 # Scrapy por SEO
 
-Esto es un proyecto Scrapy para raspar los sitios web y seperarlos por etiquetas. El "spider" en el proyecto necesita una entrada de usario en el símbolo del sistema.
+Esto es un proyecto Scrapy para raspar los sitios web y seperarlos por etiquetas. El "spider" en el proyecto necesita una entrada de usario en el símbolo del sistema. También, hay un interfaz sencilla que puedes utilizar. El nombre de este archivo es: user.py
 
 ## Para Empezar
 
