@@ -26,7 +26,7 @@ conda create -n yourenvname python=x.x anaconda
 conda install -n yourenvname -c conda-forge scrapy
 ```
 
-## Ejecución del "Spider"
+## Ejecución del "Spider" en la carpeta "Scrapy"
 
 Puede ejecutar el "spider" usando el comando "scrapy crawl":
 ```
@@ -34,6 +34,8 @@ scrapy crawl user
 ```
 **Asegurarte usar el símbolo del sistema, activar tu virtualenv, y elegir el directorio de nivel superior del proyecto**
 * Por esto proyecto el directorio de nivel superior: scrapy
+
+## Ejecución del GUI en la carpeta "gui"
 
 ## Referenciass
 Por mas informacion: [Scrapy Tutorial](https://doc.scrapy.org/en/latest/intro/tutorial.html)
