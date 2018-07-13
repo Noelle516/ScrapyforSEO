@@ -39,7 +39,7 @@ scrapy crawl user
 
 Puede ejecutar el gui usando este comando en el símbolo del sistema:
 ```
-python gui.py
+python user.py
 ```
 
 **Asegurarte usar el símbolo del sistema, activar tu virtualenv, y elegir el directorio de nivel superior del proyecto**
@@ -47,4 +47,5 @@ python gui.py
 
 ## Referenciass
 Por mas informacion: [Scrapy Tutorial](https://doc.scrapy.org/en/latest/intro/tutorial.html)
+
 ¿Tienes preguntas? Enviarme las preguntas aqui: noelle.rivera.516@gmail.com
