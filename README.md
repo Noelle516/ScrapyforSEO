@@ -37,5 +37,14 @@ scrapy crawl user
 
 ## Ejecución del GUI en la carpeta "gui"
 
+Puede ejecutar el gui usando este comando en el símbolo del sistema:
+```
+python gui.py
+```
+
+**Asegurarte usar el símbolo del sistema, activar tu virtualenv, y elegir el directorio de nivel superior del proyecto**
+* Por esto proyecto el directorio de nivel superior: gui
+
 ## Referenciass
 Por mas informacion: [Scrapy Tutorial](https://doc.scrapy.org/en/latest/intro/tutorial.html)
+¿Tienes preguntas? Enviarme las preguntas aqui: noelle.rivera.516@gmail.com
